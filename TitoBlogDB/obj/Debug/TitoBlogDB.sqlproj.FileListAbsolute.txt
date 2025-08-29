@@ -1,0 +1,6 @@
+C:\Users\MY PC\source\repos\TitoLE2\TitoBlogDB\bin\Debug\TitoBlogDB.dacpac
+C:\Users\MY PC\source\repos\TitoLE2\TitoBlogDB\bin\Debug\TitoBlogDB.dll
+C:\Users\MY PC\source\repos\TitoLE2\TitoBlogDB\bin\Debug\TitoBlogDB.pdb
+C:\Users\MY PC\source\repos\TitoLE2\TitoBlogDB\obj\Debug\TitoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\TitoLE2\TitoBlogDB\obj\Debug\TitoBlogDB.dll
+C:\Users\MY PC\source\repos\TitoLE2\TitoBlogDB\obj\Debug\TitoBlogDB.pdb
